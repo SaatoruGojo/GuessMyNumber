@@ -4,7 +4,7 @@
 
 > In this project, the user has to guess the secret number. If the user fails, one point will be deducted for each wrong attempt
 
-### ✨ [Demo](https://guess-my-number-nandufinix.netlify.app/)
+### ✨ [WEBSITE](https://guess-my-number-nandufinix.netlify.app/)
 
 ## Author
 
@@ -17,5 +17,3 @@
 Give a ⭐️ if this project helped you!
 
 ---
-
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
